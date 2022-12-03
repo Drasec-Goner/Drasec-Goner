@@ -1,6 +1,6 @@
 ![Header](./banner.png)
 
-### <h1 align="center:>I'm a Developer and Student</h1>
+<h1 align="center">I'm a Developer and Student</h1>
 
 Skills: JAVA / PYTHON / JS / HTML / CSS
 
