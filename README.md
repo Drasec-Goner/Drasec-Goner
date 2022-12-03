@@ -11,10 +11,11 @@ Skills: JAVA / PYTHON / JS / HTML / CSS
 - ⚡ Fun Fact: I like watching anime but doesn't have Time to.. 🤣
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<a href= https://github.com/Drasec-Goner?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 
 ### 🏆 My trophies
 
-<img height="180" src="https://github-profile-trophy.vercel.app/?username=DrasecGoner&column=8&theme=algolia&no-frame=true"/>
+<img height="180" src="https://github-profile-trophy.vercel.app/?username=Drasec-Goner&column=8&theme=algolia&no-frame=true"/>
 
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/soumya-manna-b19b91251/])
