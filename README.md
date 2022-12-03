@@ -1,6 +1,4 @@
-### Hi there 👋, my name is Soumya Manna 
-### @Drasec-Goner
-![Header](./banner.jpg)
+![Header](./banner.png)
 
 <h1 align="center:>I'm a Developer and Student</h1>
 
