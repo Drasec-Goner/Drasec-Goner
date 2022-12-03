@@ -7,8 +7,10 @@ Skills: JAVA / PYTHON / JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 - 🤔 I’m looking for help with a thing called 'Life❤️‍🩹' 
 - 💬 Ask me about my Favourite Game 
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him
+- ⚡ Fun Fact: I like watching anime but doesn't have Time to.. 🤣
 
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Drasec-Goner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/soumya-manna-b19b91251//)  
 
