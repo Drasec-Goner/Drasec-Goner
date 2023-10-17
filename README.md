@@ -21,9 +21,13 @@
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | ![Shishir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drasec-Goner&theme=vision-friendly-dark) | 😍 Total Views on Profile:<br><br> ![Visitor Count](https://profile-counter.glitch.me/Drasec-Goner/count.svg)  |
 
-### 🏆 My trophies
+### 🏆 My Trophies
 
 <img height="180" src="https://github-profile-trophy.vercel.app/?username=Drasec-Goner&column=8&theme=algolia&no-frame=true"/>
+
+### 📛 My Badges
+
+[![An image of @drasecgoner's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/drasecgoner)](https://holopin.io/@drasecgoner)
 
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya0416/)
