@@ -29,6 +29,8 @@
 
 [![An image of @drasecgoner's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/drasecgoner)](https://holopin.io/@drasecgoner)
 
+<iframe src="https://hackerrank-badge.herokuapp.com/Drasec-Goner?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya0416/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drasec.04.github@gmail.com])
